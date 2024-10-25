@@ -5151,7 +5151,7 @@
     "multiplayer.message_not_delivered": "無法傳送聊天訊息，請檢查伺服器紀錄：%s",
     "multiplayer.player.joined": "%s 啟動了原神",
     "multiplayer.player.joined.renamed": "%s （之前是 %s）加入了遊戲",
-    "multiplayer.player.left": "%s 啟動了原神",
+    "multiplayer.player.left": "%s 卸載了原神",
     "multiplayer.player.list.hp": "%s 生命值",
     "multiplayer.player.list.narration": "在線玩家：%s",
     "multiplayer.requiredTexturePrompt.disconnect": "伺服器要求使用其自訂的病毒包",
